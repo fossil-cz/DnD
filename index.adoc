@@ -1,0 +1,6 @@
+= Simple simulation of tools used for DnD sessions.
+
+* Roll d6
+* Roll D20
+
+Both tools are utilizing almost the same python script with simple libraries.
